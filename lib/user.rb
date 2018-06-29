@@ -5,4 +5,4 @@ class User
       @first= first
       @last_name= last_name
     end
-def
+end
